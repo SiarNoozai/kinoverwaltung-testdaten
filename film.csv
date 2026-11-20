@@ -1,0 +1,21 @@
+film_id;titel;genre;dauer_min;fsk;plakat_url;status
+1;Der Herr der Ringe: Die Gefährten;Fantasy;178;12;/images/film1.jpg;AKTUELL
+2;Inception;Thriller;148;12;/images/film2.jpg;ARCHIV
+3;Toy Story;Animation;81;0;/images/film3.jpg;AKTUELL
+4;Dune Teil 3;Science-Fiction;151;12;/images/film4.jpg;BALD
+5;Titanic;Drama;194;12;/images/film5.jpg;ARCHIV
+6;Barbie;Komödie;114;6;/images/film6.jpg;ARCHIV
+7;Oppenheimer;Drama;180;12;;AKTUELL
+8;Der König der Löwen;Animation;88;0;;AKTUELL
+9;Findet Nemo;Animation;100;0;;ARCHIV
+10;Die Eiskönigin - Völlig unverfroren;Animation;101;0;;AKTUELL
+11;Interstellar;Science-Fiction;169;12;;AKTUELL
+12;The Dark Knight;Action;152;16;;ARCHIV
+13;Joker;Thriller;122;16;;AKTUELL
+14;Avatar: The Way of Water;Science-Fiction;193;12;;AKTUELL
+15;Alles steht Kopf 2;Animation;96;0;;AKTUELL
+16;Top Gun: Maverick;Action;130;12;;ARCHIV
+17;Gladiator;Action;155;16;;AKTUELL
+18;Vaiana;Animation;107;0;;AKTUELL
+19;Matrix;Science-Fiction;136;16;;AKTUELL
+20;Zoomania;Animation;108;0;;ARCHIV

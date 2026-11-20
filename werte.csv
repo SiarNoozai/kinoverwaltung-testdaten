@@ -1,0 +1,34 @@
+feld;wert;text
+FILMSTATUS;AKTUELL;Läuft aktuell
+FILMSTATUS;BALD;Demnächst
+FILMSTATUS;ARCHIV;Abgelaufen
+GENRE;Action;Action
+GENRE;Animation;Animation
+GENRE;Drama;Drama
+GENRE;Fantasy;Fantasy
+GENRE;Komödie;Komödie
+GENRE;Science-Fiction;Science-Fiction
+GENRE;Thriller;Thriller
+FSK;0;ohne Altersbeschränkung
+FSK;6;ab 6 Jahren
+FSK;12;ab 12 Jahren
+FSK;16;ab 16 Jahren
+FSK;18;ab 18 Jahren
+BUCHSTATUS;RESERVIERT;Reserviert
+BUCHSTATUS;BEZAHLT;Bezahlt
+BUCHSTATUS;STORNIERT;Storniert
+VORSTSTATUS;GEPLANT;Geplant
+VORSTSTATUS;ABGESAGT;Abgesagt
+ZAHLUNGSART;BAR;Bar
+ZAHLUNGSART;KARTE;Karte
+VERKSTELLE;KASSE;Kasse
+VERKSTELLE;AUTOMAT;Snackautomat
+KATEGORIE;POPCORN;Popcorn
+KATEGORIE;GETRAENK;Getränk
+KATEGORIE;SNACK;Snack
+KATEGORIE;MENUE;Menü
+SAALTYP;2D;2D
+SAALTYP;3D;3D
+GROESSE;S;Klein
+GROESSE;M;Mittel
+GROESSE;L;Groß

@@ -1,0 +1,15 @@
+prod_id;name;kategorie;groesse;preis;waehrung;lieferbestand;mindestbestand
+1;Popcorn süß;POPCORN;S;4.50;EUR;199;60
+2;Popcorn süß;POPCORN;M;5.50;EUR;426;60
+3;Popcorn süß;POPCORN;L;6.50;EUR;421;60
+4;Popcorn salzig;POPCORN;M;5.50;EUR;258;40
+5;Nachos mit Käsedip;SNACK;M;6.00;EUR;86;40
+6;Cola 0,5 l;GETRAENK;M;3.80;EUR;568;80
+7;Cola 1,0 l;GETRAENK;L;5.20;EUR;317;40
+8;Wasser 0,5 l;GETRAENK;M;2.90;EUR;364;60
+9;Eistee 0,5 l;GETRAENK;M;3.50;EUR;266;40
+10;Apfelsaft 0,33 l;GETRAENK;S;2.90;EUR;189;40
+11;Schokoriegel;SNACK;;2.50;EUR;285;40
+12;Gummibärchen;SNACK;;2.80;EUR;188;40
+13;Kino-Menü (Popcorn M + Cola 0,5 l);MENUE;;8.50;EUR;395;0
+14;Kinder-Menü (Popcorn S + Apfelsaft);MENUE;;6.00;EUR;204;0
